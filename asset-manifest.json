@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parth-shah/static/css/main.d1b05096.chunk.css",
+    "main.js": "/parth-shah/static/js/main.7cd9c395.chunk.js",
+    "main.js.map": "/parth-shah/static/js/main.7cd9c395.chunk.js.map",
+    "runtime-main.js": "/parth-shah/static/js/runtime-main.39707f88.js",
+    "runtime-main.js.map": "/parth-shah/static/js/runtime-main.39707f88.js.map",
+    "static/js/2.15931a8f.chunk.js": "/parth-shah/static/js/2.15931a8f.chunk.js",
+    "static/js/2.15931a8f.chunk.js.map": "/parth-shah/static/js/2.15931a8f.chunk.js.map",
+    "index.html": "/parth-shah/index.html",
+    "precache-manifest.9a19fb0a5e77936a35e3443938b21899.js": "/parth-shah/precache-manifest.9a19fb0a5e77936a35e3443938b21899.js",
+    "service-worker.js": "/parth-shah/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/parth-shah/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.15931a8f.chunk.js.LICENSE.txt": "/parth-shah/static/js/2.15931a8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/parth-shah/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39707f88.js",
+    "static/js/2.15931a8f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.7cd9c395.chunk.js"
+  ]
+}
