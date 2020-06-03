@@ -1,12 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import NavTop from './components/navigation/NavTop'
+import FootBottom from './components/footer/FootBottom'
+import Home from './components/pages/home'
 
 function App() {
   return (
-    <div className="App">
-      <h1>Parth's portfolio comming soon!</h1>
-    </div>
+    <React.Fragment>
+      <NavTop />
+      <Home />
+
+      <FootBottom />
+    </React.Fragment>
   );
 }
 
