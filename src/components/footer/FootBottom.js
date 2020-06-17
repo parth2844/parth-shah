@@ -7,12 +7,17 @@ function FootBottom() {
     return (
         <footer className="mt-3">
             <Container fluid className="p-0">
-                <Row className="border-top justify-content-between p-3">
-                    <Col className="">Created By: Parth Shah © 2020</Col>
+                <Row noGutters={true} className="border-top justify-content-between p-3">
+                    <Col className="d-flex justify-content-start">Created By: Parth Shah © 2020</Col>
                     <Col className="d-flex justify-content-center">Hosted using Github Pages</Col>
-                    <Col className="d-flex justify-content-end">                        
-                        <a href="https://www.linkedin.com/in/parth-shah97/">LinkedIn</a>                        
-                        <a href="https://github.com/parth2844">Github</a>  
+                    <Col className="d-flex justify-content-end">          
+                        <Col className="d-flex justify-content-end">
+                            <a href="https://www.linkedin.com/in/parth-shah97/" target="_blank">LinkedIn</a>
+                        </Col>              
+                                                
+                        <Col className="d-flex justify-content-end">
+                            <a href="https://github.com/parth2844" target="_blank">Github</a>
+                        </Col>
                     </Col>
                 </Row>
             </Container>
