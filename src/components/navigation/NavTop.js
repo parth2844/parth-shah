@@ -18,17 +18,17 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="1" >
+                    <Nav.Link eventKey="1" disabled >
                         <Link to='/skills'>SKILLS</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="2" >
+                    <Nav.Link eventKey="2" disabled >
                         <Link to="/experience">EXPERIENCE</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="3" >
+                    <Nav.Link eventKey="3" disabled >
                         <Link to="/projects">PROJECTS</Link>
                     </Nav.Link>
                 </Nav.Item>
