@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ac0f25615e80c44ee691fdb9a8f73c2",
+    "revision": "8cb661045dc727825afeea6964bf5f31",
     "url": "/parth-shah/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parth-shah/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "2fcc60229840e701603d",
-    "url": "/parth-shah/static/css/main.036fe6c8.chunk.css"
+    "revision": "c712ae19226c4a56ecc5",
+    "url": "/parth-shah/static/css/main.dedc8e31.chunk.css"
   },
   {
     "revision": "4baeea2908a2d720e049",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parth-shah/static/js/2.8f3297be.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fcc60229840e701603d",
+    "revision": "c712ae19226c4a56ecc5",
     "url": "/parth-shah/static/js/main.78a7927e.chunk.js"
   },
   {

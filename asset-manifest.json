@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/parth-shah/static/css/main.036fe6c8.chunk.css",
+    "main.css": "/parth-shah/static/css/main.dedc8e31.chunk.css",
     "main.js": "/parth-shah/static/js/main.78a7927e.chunk.js",
     "main.js.map": "/parth-shah/static/js/main.78a7927e.chunk.js.map",
     "runtime-main.js": "/parth-shah/static/js/runtime-main.39707f88.js",
@@ -9,10 +9,10 @@
     "static/js/2.8f3297be.chunk.js": "/parth-shah/static/js/2.8f3297be.chunk.js",
     "static/js/2.8f3297be.chunk.js.map": "/parth-shah/static/js/2.8f3297be.chunk.js.map",
     "index.html": "/parth-shah/index.html",
-    "precache-manifest.3c0a7efa4970f0bf4a043b5c259ef087.js": "/parth-shah/precache-manifest.3c0a7efa4970f0bf4a043b5c259ef087.js",
+    "precache-manifest.6798b53b8e5dc1fd390f78d5c18e62da.js": "/parth-shah/precache-manifest.6798b53b8e5dc1fd390f78d5c18e62da.js",
     "service-worker.js": "/parth-shah/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/parth-shah/static/css/2.4819d237.chunk.css.map",
-    "static/css/main.036fe6c8.chunk.css.map": "/parth-shah/static/css/main.036fe6c8.chunk.css.map",
+    "static/css/main.dedc8e31.chunk.css.map": "/parth-shah/static/css/main.dedc8e31.chunk.css.map",
     "static/js/2.8f3297be.chunk.js.LICENSE.txt": "/parth-shah/static/js/2.8f3297be.chunk.js.LICENSE.txt",
     "static/media/profile_image.jpg": "/parth-shah/static/media/profile_image.01855ba7.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.39707f88.js",
     "static/css/2.4819d237.chunk.css",
     "static/js/2.8f3297be.chunk.js",
-    "static/css/main.036fe6c8.chunk.css",
+    "static/css/main.dedc8e31.chunk.css",
     "static/js/main.78a7927e.chunk.js"
   ]
 }
