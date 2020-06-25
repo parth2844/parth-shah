@@ -23,8 +23,8 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="2" disabled >
-                        <Link to="/experience">EXPERIENCE</Link>
+                    <Nav.Link eventKey="2">
+                        <Link to="/parth-shah/experience">EXPERIENCE</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
