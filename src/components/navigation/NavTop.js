@@ -7,7 +7,7 @@ import '../../stylesheets/NavTop.css'
 function NavTop() {
     return (
         
-        <Navbar expand="md" variant="light" bg="light" className="border-bottom mb-3">
+        <Navbar expand="md" variant="light" bg="light" className="border-bottom">
             <Navbar.Brand href="/parth-shah" className="logo">Parth Shah</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">

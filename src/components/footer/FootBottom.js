@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col'
 
 function FootBottom() {
     return (
-        <footer className="mt-3">
+        <footer className="">
             <Container fluid className="p-0">
                 <Row noGutters={true} className="border-top justify-content-between p-3">
                     <Col className="d-flex justify-content-start">Created By: Parth Shah © 2020</Col>

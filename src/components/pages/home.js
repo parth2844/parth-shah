@@ -11,7 +11,7 @@ import '../../stylesheets/Home.css'
 
 function home() {
     return (
-        <div>
+        <div className="home-page pt-3 pb-3">
             <Row noGutters={true}>
                 <Col xs={12} md={6} className="">
                     <Row noGutters={true} className="d-flex justify-content-center">
