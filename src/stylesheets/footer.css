@@ -1,0 +1,19 @@
+.footer-bar {
+    background-color: #254E58;
+    border-top: 1px solid #112D32;  
+}
+
+.col-item {
+    color: #eefceb;
+}
+
+.col-item a {
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+}
+
+.col-item a:hover {
+    text-decoration: underline;
+    color: white
+}

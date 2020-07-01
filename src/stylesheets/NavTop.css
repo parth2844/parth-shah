@@ -1,5 +1,36 @@
-.logo{
-    font-style: italic;
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.navigation-bar {    
+    background-color: #254E58;
+    border-bottom: 1px solid #112D32;    
+}
+
+.navigation-bar-logo {
+    margin-left: 10%;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    color: #eefceb;
+}
+
+.nav-link.active {
+    background-color: transparent;
+    border: 1px solid #eefceb;
+    border-radius: 5px;
+}
+
+.nav-link.active a:hover {
+    color: #eefceb;
+}
+
+.navtop-link a {
+    color: #eefceb;
+    text-decoration: none;
+    font-size: 18px;
     font-weight: bold;
-    font-size: 26px;
+    padding: 0 5px;
+}
+
+.navtop-link a:hover {
+    color: #112D32;
+    text-decoration: none;
 }
