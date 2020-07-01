@@ -7,8 +7,8 @@ import '../../stylesheets/NavTop.css'
 function NavTop() {
     return (
         
-        <Navbar expand="md" className="navigation-bar">
-            <Navbar.Brand href="/parth-shah" className="navigation-bar-logo">Parth Shah</Navbar.Brand>
+        <Navbar expand="md" variant="dark" className="navigation-bar">
+            <Navbar.Brand href="/parth-shah" className="navigation-bar-logo"><p className="logo">Parth Shah</p></Navbar.Brand>
             <Navbar.Toggle aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
             <Nav defaultActiveKey="0" className="ml-auto">

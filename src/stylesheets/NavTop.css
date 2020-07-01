@@ -5,11 +5,15 @@
     border-bottom: 1px solid #112D32;    
 }
 
-.navigation-bar-logo {
-    margin-left: 10%;
+.navigation-bar-logo {    
+    margin-left: 10%;    
+}
+
+.logo {    
     font-family: 'Pacifico', cursive;
-    font-size: 30px;
     color: #eefceb;
+    font-size: 30px;
+    margin: 0;
 }
 
 .nav-link.active {
