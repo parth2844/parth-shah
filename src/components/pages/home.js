@@ -19,6 +19,7 @@ function home() {
                             steps= {["Hi, I'm Parth Shah",1000]}
                             loop = {1}
                             wrapper = "h3"
+                            className = "home-page-title"
                         />                        
                     </Row>
                     <Row noGutters={true} className="d-flex justify-content-center">
@@ -26,16 +27,16 @@ function home() {
                     </Row>                 
                 </Col>
                 <Col xs={12} md={6} className="">
-                    <Container className="p-3 pt-4">
-                        <Tabs defaultActiveKey="about" >
-                            <Tab eventKey="about" title="About" className="p-3">
+                    <Container className="p-3 home-page-details">
+                        <Tabs defaultActiveKey="about" variant="pills">
+                            <Tab eventKey="about" title="About" className="pt-3 tab-details">
                                 <h3><i>Something About Me...</i></h3>
                                 <p>I am a Master of Computer Science student at University of California, Irvine graduating in December 2020.</p>
                                 <p>Currently, I am working as a FrontEnd Developer Intern at Kretiva.</p>
                                 <p>I am also working on personal side projects to enhance my skills in React, Node and MongoDB.</p>
                                 <p>Connect with me on LinkedIn using the link below to know more.</p>
                             </Tab>
-                            <Tab eventKey="summary" title="Summary" className="p-3">
+                            <Tab eventKey="summary" title="Summary" className="pt-3 tab-details">
                                 <h3><i>Short summary of my skills...</i></h3>                                
                                 <p>Strong analytical skills in Algorithms, Data Structures and Problem Solving</p>
                                 <p>Experienced in development of web-based applications in JavaScript, Java and Python</p>

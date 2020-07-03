@@ -2,7 +2,7 @@
 
 .navigation-bar {    
     background-color: #254E58;
-    border-bottom: 1px solid #112D32;    
+    border-bottom: 1px solid transparent;    
 }
 
 .navigation-bar-logo {    
