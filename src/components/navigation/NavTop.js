@@ -18,13 +18,8 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-<<<<<<< HEAD
-                    <Nav.Link eventKey="1" >
+                    <Nav.Link eventKey="1" className="navtop-link" >
                         <Link to='/parth-shah/skills'>SKILLS</Link>
-=======
-                    <Nav.Link eventKey="1" className="navtop-link" disabled>
-                        <Link to='/skills'>SKILLS</Link>
->>>>>>> e6be2048043b557797207d4ee90bf71a396f2fb1
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
