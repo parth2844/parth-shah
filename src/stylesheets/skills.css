@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+.skills-page {
+    background-color: #88BDBC;
+    font-family: 'Merriweather', serif;
+}
+
+.skills-page-title {
+    color: #112D32;
+    font-weight: bold;
+}
+
+.skills-page-card.card {
+    border: 2px solid #112D32;
+    border-radius: 5px;
+    color: #eefceb;
+}
+
+.skills-page-card .skills-page-card-header {
+    background-color: #254E58;    
+}
+
+.skills-page-card-title.h5{
+    font-weight: 600;
+    font-style: italic;
+}
+
+.skills-page-card .skills-page-card-body {
+    background-color: rgba(37, 78, 88, 0.9);
+}

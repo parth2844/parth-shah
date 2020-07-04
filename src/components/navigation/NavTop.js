@@ -18,13 +18,13 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="1" className="navtop-link">
-                        <Link to='/skills'>SKILLS</Link>
+                    <Nav.Link eventKey="1" className="navtop-link" >
+                        <Link to='/parth-shah/skills'>SKILLS</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
                     <Nav.Link eventKey="2" className="navtop-link">
-                        <Link to="/experience">EXPERIENCE</Link>
+                        <Link to="/parth-shah/experience">EXPERIENCE</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>

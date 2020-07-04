@@ -9,14 +9,14 @@ function FootBottom() {
         <footer className="footer-bar">
             <Container fluid className="p-0">
                 <Row noGutters={true} className="justify-content-between p-3">
-                    <Col className="d-flex justify-content-start col-item">Created By: Parth Shah © 2020</Col>
-                    <Col className="d-flex justify-content-center col-item">Hosted using Github Pages</Col>
-                    <Col className="d-flex justify-content-end">          
-                        <Col className="d-flex justify-content-end col-item">
+                    <Col xs={12} sm={4} className="d-flex justify-content-center col-item">Created By: Parth Shah © 2020</Col>
+                    <Col xs={12} sm={4} className="d-flex justify-content-center col-item">Hosted using Github Pages</Col>
+                    <Col xs={12} sm={4} className="d-flex justify-content-center">          
+                        <Col className="d-flex justify-content-center col-item">
                             <a href="https://www.linkedin.com/in/parth-shah97/" target="_blank">LinkedIn</a>
                         </Col>              
                                                 
-                        <Col className="d-flex justify-content-end col-item">
+                        <Col className="d-flex justify-content-center col-item">
                             <a href="https://github.com/parth2844" target="_blank">Github</a>
                         </Col>
                     </Col>
