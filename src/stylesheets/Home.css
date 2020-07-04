@@ -1,5 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
 .main-img {    
     max-width: 70%;
     height: auto;
     
+}
+
+.home-page {
+    /* background-image: linear-gradient(to bottom, #254E58, #88BDBC 70%, #254E58); */
+    background-color: #88BDBC;
+    font-family: 'Merriweather', serif;
+}
+
+.home-page-title {
+    color: #112D32;
+    font-weight: bold;
+}
+
+.nav-pills .nav-item.nav-link.active{
+    background-color: #254E58;
+    color: #eefceb;    
+    border-color: transparent;
+}
+
+.nav-pills .nav-item.nav-link.active:hover {
+    color: #eefceb;
+}
+
+.nav-pills .nav-item.nav-link {
+    color: #eefceb;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.nav-pills .nav-item.nav-link:hover {
+    color: #112D32;
+}
+
+.tab-details h3 {
+    font-weight: bold;
 }

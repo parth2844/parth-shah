@@ -7,28 +7,28 @@ import '../../stylesheets/NavTop.css'
 function NavTop() {
     return (
         
-        <Navbar expand="md" variant="light" bg="light" className="border-bottom mb-3">
-            <Navbar.Brand href="/parth-shah" className="logo">Parth Shah</Navbar.Brand>
+        <Navbar expand="md" variant="dark" className="navigation-bar">
+            <Navbar.Brand href="/parth-shah" className="navigation-bar-logo"><p className="logo">Parth Shah</p></Navbar.Brand>
             <Navbar.Toggle aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
-            <Nav variant="tabs" defaultActiveKey="0" className="ml-auto">
+            <Nav defaultActiveKey="0" className="ml-auto">
                 <Nav.Item>
-                    <Nav.Link eventKey="0">
+                    <Nav.Link eventKey="0" className="navtop-link">
                         <Link to="/parth-shah">HOME</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="1" disabled >
+                    <Nav.Link eventKey="1" className="navtop-link">
                         <Link to='/skills'>SKILLS</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="2">
-                        <Link to="/parth-shah/experience">EXPERIENCE</Link>
+                    <Nav.Link eventKey="2" className="navtop-link">
+                        <Link to="/experience">EXPERIENCE</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="3" disabled >
+                    <Nav.Link eventKey="3" className="navtop-link" disabled>
                         <Link to="/projects">PROJECTS</Link>
                     </Nav.Link>
                 </Nav.Item>
