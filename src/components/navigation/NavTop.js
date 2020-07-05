@@ -33,10 +33,8 @@ function NavTop() {
                         <Link to="/projects">PROJECTS</Link>
                     </Nav.Link>
                 </Nav.Item>
-                <Nav.Item>
-                    <Nav.Link eventKey="4" className="navtop-link">
-                        <a href={Pdf} target="_blank">RESUME</a>                        
-                    </Nav.Link>
+                <Nav.Item className="navtop-link resume">
+                    <a href='https://parth2844.github.io/parth-shah/static/media/Resume-ParthShah.82100a0e.pdf' target="_blank">RESUME</a> 
                 </Nav.Item>
             </Nav>
             </Navbar.Collapse>
