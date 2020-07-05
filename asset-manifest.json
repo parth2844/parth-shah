@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/parth-shah/static/css/main.d122a3f5.chunk.css",
-    "main.js": "/parth-shah/static/js/main.0bf52725.chunk.js",
-    "main.js.map": "/parth-shah/static/js/main.0bf52725.chunk.js.map",
+    "main.css": "/parth-shah/static/css/main.d6942357.chunk.css",
+    "main.js": "/parth-shah/static/js/main.e981d5c8.chunk.js",
+    "main.js.map": "/parth-shah/static/js/main.e981d5c8.chunk.js.map",
     "runtime-main.js": "/parth-shah/static/js/runtime-main.39707f88.js",
     "runtime-main.js.map": "/parth-shah/static/js/runtime-main.39707f88.js.map",
     "static/css/2.4819d237.chunk.css": "/parth-shah/static/css/2.4819d237.chunk.css",
-    "static/js/2.1fd0c3f7.chunk.js": "/parth-shah/static/js/2.1fd0c3f7.chunk.js",
-    "static/js/2.1fd0c3f7.chunk.js.map": "/parth-shah/static/js/2.1fd0c3f7.chunk.js.map",
+    "static/js/2.0a0421a4.chunk.js": "/parth-shah/static/js/2.0a0421a4.chunk.js",
+    "static/js/2.0a0421a4.chunk.js.map": "/parth-shah/static/js/2.0a0421a4.chunk.js.map",
     "index.html": "/parth-shah/index.html",
-    "precache-manifest.687fc9cb54d44aa2245ccf120e54ba26.js": "/parth-shah/precache-manifest.687fc9cb54d44aa2245ccf120e54ba26.js",
+    "precache-manifest.4c90e9287c4b7ed73d21752761a53ddd.js": "/parth-shah/precache-manifest.4c90e9287c4b7ed73d21752761a53ddd.js",
     "service-worker.js": "/parth-shah/service-worker.js",
     "static/css/2.4819d237.chunk.css.map": "/parth-shah/static/css/2.4819d237.chunk.css.map",
-    "static/css/main.d122a3f5.chunk.css.map": "/parth-shah/static/css/main.d122a3f5.chunk.css.map",
-    "static/js/2.1fd0c3f7.chunk.js.LICENSE.txt": "/parth-shah/static/js/2.1fd0c3f7.chunk.js.LICENSE.txt",
+    "static/css/main.d6942357.chunk.css.map": "/parth-shah/static/css/main.d6942357.chunk.css.map",
+    "static/js/2.0a0421a4.chunk.js.LICENSE.txt": "/parth-shah/static/js/2.0a0421a4.chunk.js.LICENSE.txt",
+    "static/media/Resume-ParthShah.pdf": "/parth-shah/static/media/Resume-ParthShah.82100a0e.pdf",
     "static/media/profile_image.jpg": "/parth-shah/static/media/profile_image.01855ba7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.39707f88.js",
     "static/css/2.4819d237.chunk.css",
-    "static/js/2.1fd0c3f7.chunk.js",
-    "static/css/main.d122a3f5.chunk.css",
-    "static/js/main.0bf52725.chunk.js"
+    "static/js/2.0a0421a4.chunk.js",
+    "static/css/main.d6942357.chunk.css",
+    "static/js/main.e981d5c8.chunk.js"
   ]
 }
