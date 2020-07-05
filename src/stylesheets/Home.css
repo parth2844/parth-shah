@@ -7,8 +7,8 @@
 }
 
 .home-page {
-    /* background-image: linear-gradient(to bottom, #254E58, #88BDBC 70%, #254E58); */
-    background-color: #88BDBC;
+    background-image: linear-gradient(to bottom, #254E58, #88BDBC 60%, #254E58);
+    /* background-color: #88BDBC; */
     font-family: 'Merriweather', serif;
 }
 

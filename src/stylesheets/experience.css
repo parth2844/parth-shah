@@ -1,31 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 
-.skills-page {
+.experience-page {
     background-color: #88BDBC;
     background-image: linear-gradient(to bottom, #254E58, #88BDBC 60%, #254E58);
     font-family: 'Merriweather', serif;
 }
 
-.skills-page-title {
+.experience-page-title {
     color: #eefceb;
     font-weight: bold;
 }
 
-.skills-page-card.card {
+.experience-page-card.card {
     border: 2px solid #112D32;
     border-radius: 5px;
     color: #eefceb;
 }
 
-.skills-page-card .skills-page-card-header {
+.experience-page-card .experience-page-card-header {
     background-color: #4f4a41;    
 }
 
-.skills-page-card-title.h5{
+.experience-page-card-title.h5{
     font-weight: 600;
     font-style: italic;
 }
 
-.skills-page-card .skills-page-card-body {
+.experience-page-card .experience-page-card-body {
     background-color: #6e6658;
 }
