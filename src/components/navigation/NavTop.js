@@ -3,6 +3,7 @@ import {Link} from 'react-router-dom'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import '../../stylesheets/NavTop.css'
+import Pdf from '../../Documents/Resume-ParthShah.pdf'
 
 function NavTop() {
     return (
@@ -30,6 +31,11 @@ function NavTop() {
                 <Nav.Item>
                     <Nav.Link eventKey="3" className="navtop-link" disabled>
                         <Link to="/projects">PROJECTS</Link>
+                    </Nav.Link>
+                </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link eventKey="4" className="navtop-link">
+                        <a href={Pdf} target="_blank">RESUME</a>                        
                     </Nav.Link>
                 </Nav.Item>
             </Nav>
