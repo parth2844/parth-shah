@@ -6,6 +6,7 @@ import Home from './components/pages/home'
 import Skills from './components/pages/skills'
 import Error from './components/pages/error'
 import Experience from './components/pages/experience'
+import Projects from './components/pages/projects'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/parth-shah" exact component={Home} />
         <Route path="/parth-shah/experience" exact component={Experience} />        
         <Route path="/parth-shah/skills" exact component={Skills} />
+        <Route path="/parth-shah/projects" exact component={Projects} />
         <Route component={Error} />
       </Switch>
       <FootBottom />    
