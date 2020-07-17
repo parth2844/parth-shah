@@ -21,11 +21,27 @@
     background-color: #4f4a41;    
 }
 
-.experience-page-card-title.h5{
+.experience-page-card-title a {
     font-weight: 600;
     font-style: italic;
+    color: #eefceb;
+    text-decoration: none;
+}
+
+.experience-page-card-title a:hover {
+    color: #eefceb;
+    text-decoration: none;
 }
 
 .experience-page-card .experience-page-card-body {
     background-color: #6e6658;
+}
+
+.details-button {
+    padding: 10px 20px;
+    background-color: #4f4a41;
+    color: #eefceb;
+    border: 1px solid #4f4a41;
+    border-radius: 5px;
+    cursor: pointer;
 }
