@@ -3,7 +3,7 @@ import {Link} from 'react-router-dom'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import '../../stylesheets/NavTop.css'
-import Pdf from '../../Documents/Resume-ParthShah.pdf'
+import Pdf from '../../Documents/ParthShah-Resume.pdf'
 
 function NavTop() {
     return (
@@ -34,7 +34,7 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item className="navtop-link resume">
-                    <a href='https://parth2844.github.io/parth-shah/static/media/Resume-ParthShah.82100a0e.pdf' target="_blank">RESUME</a> 
+                    <a href={Pdf} target="_blank">RESUME</a> 
                 </Nav.Item>
             </Nav>
             </Navbar.Collapse>
