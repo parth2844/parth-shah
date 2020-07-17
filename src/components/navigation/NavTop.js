@@ -29,8 +29,8 @@ function NavTop() {
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="3" className="navtop-link" disabled>
-                        <Link to="/projects">PROJECTS</Link>
+                    <Nav.Link eventKey="3" className="navtop-link">
+                        <Link to="/parth-shah/projects">PROJECTS</Link>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item className="navtop-link resume">
