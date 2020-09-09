@@ -25,7 +25,7 @@ function experience() {
                                 <div style = {props}>
                                     <Card className="experience-page-card mt-4">
                                         <Card.Header className="experience-page-card-header">
-                                            <Card.Title className="experience-page-card-title m-0"><a href="https://www.advancedretailea.com/" target="_blank">Advance Energy Analytics</a></Card.Title>
+                                            <Card.Title className="experience-page-card-title m-0"><a href="http://advancedenergyanalytics.com/" target="_blank">Advance Energy Analytics</a></Card.Title>
                                         </Card.Header>
                                         <Card.Body className="experience-page-card-body">    
                                             <Card.Text>  
@@ -33,9 +33,11 @@ function experience() {
                                             </Card.Text> 
                                             <Card.Text>
                                                 <h6>Role Description:</h6>
-                                                <p>Planning and assisting the deployment of company's software platform on Amazon Cloud computing environment.</p>                               
+                                                <p>Built cloud architecture to migrate company resources on AWS infrastructure practicing Agile principles</p>   
+                                                <p>Worked on deployment of AWS Lambda functions for computation and EC2 instance for web-portal</p>    
+                                                <p>Automated the PDF report generation process using puppeteer with S3 triggers on NodeJS Lambda function</p>                        
                                             </Card.Text>
-                                            <button className="details-button">Detailed Role</button>
+                                            {/* <button className="details-button">Detailed Role</button> */}
                                         </Card.Body>
                                     </Card>
                                     <Card className="experience-page-card mt-4">
@@ -48,10 +50,11 @@ function experience() {
                                             </Card.Text> 
                                             <Card.Text>
                                                 <h6>Role Description:</h6>
-                                                <p>Supported the development of company’s online e-commerce platform using React in a CI/CD environment</p>
-                                                <p>Responsible for developing and maintaining webpages, email templates and performing API integrations </p>                                  
+                                                <p>Developed cross-browser/platform compatible responsive webpages, components with HTML, CSS, JavaScript, React, Material-UI and deployed them in a CI/CD environment using Jenkins pipelines</p>
+                                                <p>Redesigned webpages and achieved a total reduction of 40% in load time, improving user experience</p>    
+                                                <p>Developed Redux stores and actions, performed API integrations, set-up session storage for customer facing portal</p>                              
                                             </Card.Text>
-                                            <button className="details-button">Detailed Role</button>
+                                            {/* <button className="details-button">Detailed Role</button> */}
                                         </Card.Body>
                                     </Card>
                                     <Card className="experience-page-card mt-4">
@@ -64,10 +67,10 @@ function experience() {
                                             </Card.Text> 
                                             <Card.Text>
                                                 <h6>Role Description:</h6>
-                                                <p>Restructured front end of e-commerce website and integrated the database to present live inventory information</p>
-                                                <p>Promoted and marketed products using Google AdWords platform, which increased website hits by 30-40%</p>                                  
+                                                <p>Revamped user interface using WordPress and integrated MySQL database for efficient data flow</p>
+                                                <p>Performed SEO and utilized Google AdWords online marketing platform to increase web traffic by 35%</p>                                  
                                             </Card.Text>
-                                            <button className="details-button">Detailed Role</button>                                    
+                                            {/* <button className="details-button">Detailed Role</button>                                     */}
                                             
                                         </Card.Body>
                                     </Card>                                    
