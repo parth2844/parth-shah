@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e39dea4fbe8bbfadd8856d57095192d",
+    "revision": "c4be5e0be74f441e3ceee8bb39596327",
     "url": "/parth-shah/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parth-shah/static/css/2.4819d237.chunk.css"
   },
   {
-    "revision": "210756af18ad5c1f4f17",
+    "revision": "23dd9d63b34e4fec1bc5",
     "url": "/parth-shah/static/css/main.34f158c4.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/parth-shah/static/js/2.e72991a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "210756af18ad5c1f4f17",
-    "url": "/parth-shah/static/js/main.c5b74a1b.chunk.js"
+    "revision": "23dd9d63b34e4fec1bc5",
+    "url": "/parth-shah/static/js/main.36d89b6b.chunk.js"
   },
   {
     "revision": "7a952900410b77091691",
     "url": "/parth-shah/static/js/runtime-main.39707f88.js"
   },
   {
-    "revision": "6cc1bd1841f7d7c8b5afdb143c94eb1f",
-    "url": "/parth-shah/static/media/ParthShah-Resume.6cc1bd18.pdf"
+    "revision": "814c2e7a681fb16e50127ed65a3033b8",
+    "url": "/parth-shah/static/media/ParthShah-Resume.814c2e7a.pdf"
   },
   {
     "revision": "01855ba77b42f38a76536a939be145e0",
